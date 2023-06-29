@@ -1,0 +1,7 @@
+"//odd even in cpp?"
+ 
+
+
+
+
+

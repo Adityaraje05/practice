@@ -1,0 +1,1 @@
+{"name":"Local: demo","url":"c:\\Users\\adini\\OneDrive\\Desktop\\c++ codes\\demo.cpp","tests":[{"id":1687085027184,"input":"5 10\n","output":"5 + 10 = 15\n5 * 10 = 50\n5 - 10 = -5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\adini\\OneDrive\\Desktop\\c++ codes\\demo.cpp","group":"local","local":true}
